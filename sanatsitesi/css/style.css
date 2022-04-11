@@ -1,0 +1,77 @@
+
+/* Bu kısım index için yapılmıştır. */
+
+
+body {text-align: center;
+
+    width: 800px;
+    margin-left: 400px;
+}
+
+
+.sectionindex {
+  
+border: 8px black; border-style: solid;  
+
+}
+
+
+.indexh1 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 60px;
+            border: 8px solid black;
+}
+
+.navindex {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+
+.sectionp {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-size: 20px;
+
+}
+
+
+
+.sectionh1 {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+.indexfooter {
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+}
+
+/* index kısımı buraya kadardır */
+
+
+/* Bu kısım belirli standarları barındırır. */
+
+.impactfont {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.fontsize60 {
+             font-size: 60px;
+
+}
+
+.borderblack8px {
+                    border: 8px solid black;  
+
+    
+}
+
+.fontsize20 {
+                font-size: 20px;
+}
+
